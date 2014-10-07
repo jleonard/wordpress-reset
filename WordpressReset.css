@@ -1,0 +1,15 @@
+#minor-publishing,#edit-slug-box{
+  display:none;
+}
+
+#postexcerpt .inside p{
+  display:none;
+}
+
+#wp-admin-bar-comments{
+  display:none;
+}
+
+body{
+  /*content: "<h1>Under construction</h1>" !important; */
+}
